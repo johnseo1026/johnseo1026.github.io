@@ -12,9 +12,8 @@ disqus_shortname:
 logo: /siteicon.png
 description: App marketing template for Jekyll.
 author:
-  name:
+  name: JUNYOUNG SEO
   email:
-  twitter: # twitter username without the @ symbol
 social:
   name: Frisco Template
   links:
@@ -111,7 +110,6 @@ social_icons:
   - LinkedIn
   - Pinterest
   - Tumblr
-  - Twitter
   - YouTube
   - Email
   - RSS
